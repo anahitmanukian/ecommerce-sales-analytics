@@ -1,0 +1,181 @@
+product_id,product_name,category,brand,unit_cost,list_price
+P1000,Nexo Lite 1,Books,Peak,18.43,31.44
+P1001,Astra X 2,Accessories,Nexo,23.62,53.51
+P1002,Lumen Max 3,Accessories,Nova,,224.39
+P1003,Lumen Go 4,Electronics,UrbanLife,111.61,257.87
+P1004,Peak Go 5,Beauty,Lumen,53.11,142.58
+P1005,Peak X 6,Clothing,Lumen,130.44,214.6
+P1006,Nexo Go 7,Electronics,Vertex,109.11,274.82
+P1007,Nova Classic 8,Sports,Nexo,61.84,146.04
+P1008,HomePro Classic 9,Accessories,Nexo,9.44,16.76
+P1009,Vertex Pro 10,Beauty,Lumen,136.28,315.42
+P1010,Nexo Pro 11,Accessories,Peak,42.58,
+P1011,Ararat Tech Go 12,Sports,Mira,151.03,361.65
+P1012,Lumen Classic 13,Beauty,Nexo,78.55,158.82
+P1013,Peak Classic 14,Accessories,Vertex,105.99,177.41
+P1014,Lumen Plus 15,Sports,Lumen,157.77,347.23
+P1015,UrbanLife Lite 16,Sports,Mira,156.13,340.42
+P1016,Lumen Max 17,Accessories,HomePro,70.02,108.79
+P1017,Nova X 18,Accessories,Ararat Tech,,53.78
+P1018,Peak X 19,Books,Mira,140.65,264.25
+P1019,Nexo Max 20,Electronics,Nexo,80.79,
+P1020,Nova Classic 21,Electronics,Ararat Tech,38.61,97.34
+P1021,HomePro Go 22,Beauty,Nexo,163.27,423.83
+P1022,Ararat Tech Max 23,Clothing,Vertex,39.67,80.01
+P1023,UrbanLife Classic 24,Accessories,Astra,9.52,22.31
+P1024,Astra Max 25,Books,Mira,8.55,16.13
+P1025,Nexo Pro 26,Electronics,Ararat Tech,113.91,265.62
+P1026,Lumen Max 27,Electronics,Vertex,,186.86
+P1027,Mira X 28,Books,Nexo,59.43,106.26
+P1028,Ararat Tech Max 29,Home,Mira,61.0,132.35
+P1029,Mira Go 30,Books,Vertex,64.41,82.21
+P1030,Ararat Tech X 31,Electronics,Nexo,124.03,284.97
+P1031,Peak Classic 32,Clothing,Astra,15.17,37.34
+P1032,Nova Pro 33,Home,Astra,167.6,306.5
+P1033,Astra Lite 34,Sports,Nova,43.94,83.46
+P1034,Nova Classic 35,Books,UrbanLife,179.94,447.04
+P1035,Ararat Tech Pro 36,Sports,Vertex,35.02,83.16
+P1036,HomePro Pro 37,Home,UrbanLife,140.02,233.53
+P1037,Mira Max 38,Home,Nova,44.1,75.84
+P1038,UrbanLife Go 39,Home,Peak,19.15,42.79
+P1039,UrbanLife Go 40,Beauty,Mira,158.11,326.76
+P1040,Astra Lite 41,Books,Nexo,,230.63
+P1041,Astra Max 42,Accessories,Lumen,75.62,
+P1042,Astra Max 43,Clothing,UrbanLife,127.92,326.83
+P1043,Nova X 44,Clothing,UrbanLife,102.49,230.38
+P1044,Lumen Plus 45,Sports,Vertex,154.27,413.39
+P1045,Vertex Pro 46,Sports,Mira,60.13,
+P1046,UrbanLife Classic 47,Accessories,Vertex,96.64,252.8
+P1047,Astra Classic 48,Sports,Astra,89.94,
+P1048,UrbanLife X 49,Books,UrbanLife,66.93,158.53
+P1049,Peak Go 50,Electronics,Mira,161.0,205.97
+P1050,Ararat Tech Go 51,Sports,HomePro,34.03,75.64
+P1051,Ararat Tech Lite 52,Home,Peak,31.16,60.15
+P1052,HomePro X 53,Sports,Nexo,105.96,185.73
+P1053,Lumen Max 54,Home,Nova,120.06,300.21
+P1054,Lumen Max 55,Beauty,Peak,39.06,97.21
+P1055,Peak Plus 56,Electronics,Nova,73.38,94.1
+P1056,HomePro Lite 57,Electronics,UrbanLife,170.65,364.13
+P1057,UrbanLife Lite 58,Accessories.,Peak,48.16,85.89
+P1058,Peak X 59,Books,Peak,121.96,225.96
+P1059,Nova Pro 60,Books,Nexo,134.53,330.47
+P1060,Astra Classic 61,Clothing,Lumen,83.42,141.75
+P1061,Ararat Tech Plus 62,Beauty,Nexo,169.07,442.53
+P1062,Peak Pro 63,Accessories,Vertex,133.91,
+P1063,Nova Classic 64,Books,Lumen,,188.24
+P1064,Ararat Tech Max 65,Home,Peak,104.63,232.75
+P1065,Nexo X 66,Beauty,Lumen,126.21,203.92
+P1066,Ararat Tech Plus 67,Electronics,Lumen,108.63,186.94
+P1067,Ararat Tech Max 68,Home,Vertex,158.77,390.65
+P1068,HomePro Plus 69,Accessories,Mira,67.46,158.84
+P1069,Lumen Plus 70,Accessories,UrbanLife,57.48,99.28
+P1070,Ararat Tech Plus 71,Beauty,Mira,42.42,85.87
+P1071,Lumen Lite 72,Electronics,UrbanLife,11.61,15.55
+P1072,Peak Go 73,Books,Mira,12.53,
+P1073,Nexo Lite 74,Home,Mira,157.26,307.36
+P1074,Nexo Classic 75,Home,Nova,123.72,170.07
+P1075,Vertex Plus 76,Electronics,Lumen,120.59,298.2
+P1076,Mira Plus 77,Home,Astra,,257.89
+P1077,Lumen Plus 78,Books,Vertex,153.61,402.19
+P1078,Astra Lite 79,Books,Mira,89.05,200.85
+P1079,Mira Pro 80,Books,Peak,,411.17
+P1080,Lumen Classic 81,Electronics,HomePro,67.9,
+P1081,UrbanLife X 82,Sports,Nova,167.17,354.45
+P1082,Astra Classic 83,Sports,HomePro,127.26,339.35
+P1083,HomePro Pro 84,Accessories,Ararat Tech,50.01,109.08
+P1084,Vertex X 85,Accessories,Nexo,103.71,134.27
+P1085,Astra Go 86,Home,Ararat Tech,98.28,226.0
+P1086,Lumen Lite 87,Books,UrbanLife,29.13,74.66
+P1087,Astra Max 88,Home,Mira,108.47,260.72
+P1088,UrbanLife Lite 89,Electronics,Vertex,60.09,
+P1089,Astra Plus 90,Home,Peak,14.16,31.48
+P1090,Lumen Max 91,Clothing,Astra,171.01,459.29
+P1091,Peak Go 92,Sports,Astra,117.26,161.99
+P1092,Peak Lite 93,Home,Nova,158.46,351.39
+P1093,UrbanLife Go 94,Home,Nova,123.31,204.81
+P1094,HomePro Pro 95,Beauty,Nova,67.47,146.96
+P1095,Lumen Max 96,Home,Nova,,201.85
+P1096,Astra Classic 97,Clothing,Lumen,123.26,181.5
+P1097,Lumen Plus 98,Sports,Mira,173.04,268.17
+P1098,Astra Plus 99,Beauty,HomePro,49.39,106.26
+P1099,Mira Plus 100,Electronics,Mira,158.12,227.05
+P1100,Vertex X 101,Accessories,Mira,166.71,272.49
+P1101,Nova Max 102,Electronics,Ararat Tech,122.32,
+P1102,Vertex Pro 103,Sports,Vertex,167.97,289.63
+P1103,Lumen X 104,Accessories,Peak,74.63,146.1
+P1104,Peak Pro 105,Electronics,UrbanLife,171.78,449.15
+P1105,Mira Max 106,Clothing,Vertex,127.99,202.14
+P1106,Nexo Classic 107,Home,Nova,12.35,22.41
+P1107,Ararat Tech Go 108,Sports,HomePro,163.7,348.58
+P1108,Nova Plus 109,Accessories,Ararat Tech,89.78,210.56
+P1109,Nexo X 110,Beauty,Lumen,85.56,218.81
+P1110,Lumen Plus 111,Home,HomePro,104.13,268.39
+P1111,HomePro Plus 112,Electronics,Ararat Tech,31.14,73.99
+P1112,Vertex Lite 113,Electronics,Nexo,87.1,137.71
+P1113,Ararat Tech Plus 114,Beauty,Lumen,150.45,193.47
+P1114,Peak X 115,Clothing,Nova,7.71,
+P1115,Nova X 116,Beauty,UrbanLife,52.76,76.78
+P1116,HomePro Plus 117,Sports,Nova,5.43,12.38
+P1117,Nexo X 118,Beauty,HomePro,77.75,171.72
+P1118,Peak Max 119,Electronics,Nova,132.46,174.02
+P1119,Peak Classic 120,Clothing,Nexo,144.79,356.63
+P1120,Vertex Go 121,Clothing,Nova,170.41,274.48
+P1121,Mira Max 122,Books,Ararat Tech,111.49,209.24
+P1122,HomePro Classic 123,Beauty,Astra,49.56,109.95
+P1123,Vertex Lite 124,Sports,Nova,166.73,312.23
+P1124,Mira Lite 125,Electronics,Nexo,140.68,265.87
+P1125,Lumen Max 126,Home.,Mira,105.52,141.94
+P1126,HomePro Pro 127,Clothing,Mira,126.74,232.2
+P1127,HomePro Go 128,Beauty,UrbanLife,166.76,393.39
+P1128,Vertex Plus 129,Books,UrbanLife,129.67,334.16
+P1129,Vertex Lite 130,Sports.,UrbanLife,69.47,128.49
+P1130,Astra Pro 131,Sports,Vertex,129.78,241.94
+P1131,Nexo Go 132,Accessories,Peak,12.05,27.34
+P1132,Peak X 133,Electronics,UrbanLife,72.62,
+P1133,UrbanLife Pro 134,Clothing,Nova,76.11,124.61
+P1134,Mira Classic 135,Electronics,UrbanLife,34.2,64.58
+P1135,Nexo Classic 136,Books,Peak,9.04,21.73
+P1136,Astra Lite 137,Home,Vertex,28.34,60.48
+P1137,UrbanLife Plus 138,Home,Peak,119.56,168.62
+P1138,Vertex Plus 139,Home,HomePro,145.4,314.09
+P1139,Astra Classic 140,Sports,UrbanLife,177.94,270.61
+P1140,Peak Max 141,Clothing,UrbanLife,65.61,130.55
+P1141,Lumen X 142,Electronics,UrbanLife,109.89,221.67
+P1142,Vertex Lite 143,Electronics,HomePro,169.0,425.96
+P1143,HomePro X 144,Books.,Peak,34.23,65.74
+P1144,HomePro Max 145,Home,Ararat Tech,130.59,216.15
+P1145,UrbanLife X 146,Clothing,Nova,137.12,217.32
+P1146,Vertex Plus 147,Clothing,Nexo,20.57,51.79
+P1147,UrbanLife X 148,Books,Nova,155.72,233.26
+P1148,Lumen Max 149,Beauty,UrbanLife,147.29,275.07
+P1149,UrbanLife Classic 150,Clothing,Vertex,10.85,16.51
+P1150,Ararat Tech Classic 151,Clothing,HomePro,20.94,49.65
+P1151,Ararat Tech Go 152,Electronics,Ararat Tech,13.6,26.35
+P1152,Nova Go 153,Books,Lumen,63.58,111.85
+P1153,Ararat Tech Go 154,Clothing,Ararat Tech,94.13,
+P1154,Ararat Tech Max 155,Clothing,Nexo,98.16,244.0
+P1155,UrbanLife Go 156,Electronics,Nova,51.84,106.43
+P1156,Peak Pro 157,Clothing,UrbanLife,164.53,376.92
+P1157,UrbanLife Pro 158,Electronics,Astra,69.45,177.15
+P1158,Peak Classic 159,Beauty,Lumen,12.97,33.17
+P1159,HomePro Lite 160,Sports,UrbanLife,57.54,99.33
+P1160,Ararat Tech Classic 161,Accessories,HomePro,97.94,257.69
+P1161,Nexo Max 162,Electronics,Lumen,76.44,98.31
+P1162,HomePro Pro 163,Electronics,Nexo,,95.07
+P1163,Ararat Tech Classic 164,Clothing,Astra,27.98,71.32
+P1164,Lumen Max 165,Electronics,Peak,148.35,244.51
+P1165,Ararat Tech Pro 166,Books,Peak,179.33,295.17
+P1166,Lumen X 167,Home,Peak,62.67,105.84
+P1167,Mira Classic 168,Home,Vertex,71.78,
+P1168,Mira Pro 169,Beauty,Peak,113.16,213.37
+P1169,Lumen Go 170,Electronics,Mira,130.73,301.17
+P1170,Astra Go 171,Books,Lumen,73.61,187.53
+P1171,UrbanLife Pro 172,Clothing,Astra,,363.9
+P1172,Nova Classic 173,Clothing,HomePro,103.0,159.29
+P1173,UrbanLife Plus 174,Accessories,Mira,83.82,218.13
+P1174,Peak Classic 175,Sports,Mira,118.17,
+P1175,Lumen Lite 176,Beauty,Astra,171.74,252.0
+P1176,Vertex Lite 177,Books,HomePro,144.05,198.85
+P1177,Astra Pro 178,Books,Lumen,12.0,24.8
+P1178,Vertex Max 179,Accessories,Nova,63.15,89.35
+P1179,HomePro Classic 180,Accessories,UrbanLife,87.35,126.76
