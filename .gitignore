@@ -1,0 +1,8 @@
+# Ignore Excel workbooks
+*.xlsx
+*.xls
+
+# Ignore virtual environments & python caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
