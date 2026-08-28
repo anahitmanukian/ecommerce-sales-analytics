@@ -136,9 +136,9 @@ e_commerce_dataset_analysis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
-
-Key Business Questions 
+### Key Business Questions 
  
 The analysis is designed to answer core business questions:
 
@@ -155,7 +155,7 @@ The analysis is designed to answer core business questions:
     What are the most common reasons for returns?
 
 
-Data Model
+### Data Model
 
 The database follows a relational structure:
     customers
@@ -167,7 +167,7 @@ The database follows a relational structure:
                 └── returns    
 
 
-Future Improvements
+### Future Improvements
 
     Adding additional Power BI slicers and drill-through pages
 
